@@ -1,0 +1,44 @@
+.flex{
+    display: flex;
+}
+
+p{
+    font-size: 20px;
+}
+
+.result-container{
+    width: 320px;
+    height: 80px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.result-container p {
+    text-align: right;
+    padding-right: 5px;
+}
+
+.touch{
+    width: 80px;
+    height: 80px;
+    border: 1px solid black;
+    position: relative;
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+.touch:hover{
+    cursor: pointer;
+}
+
+.touch_egal{
+    width: 240px;
+}
+
+.touch p {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+}
