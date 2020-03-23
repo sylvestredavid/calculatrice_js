@@ -1,3 +1,3 @@
 # calculatrice_js
 
-calculatrice en javascript faite aider maxime à apprendre javascript😉
+calculatrice en javascript pour aider maxime à apprendre javascript😉
